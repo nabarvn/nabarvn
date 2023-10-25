@@ -1,3 +1,5 @@
+[![An image of Nabarun's Holopin badges, which is a link to view his full Holopin profile](https://holopin.me/nabarun)](https://holopin.io/@nabarun#badges)
+
 ### gm 👋
 
 This is Nabarun, a self-taught software developer with a serious zeal for all things decentralized. If you're looking for a dev who's as excited about blockchain and GenAI as you are, I'm your guy. Let's build something amazing together!
